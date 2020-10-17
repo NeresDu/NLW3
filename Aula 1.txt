@@ -10,3 +10,5 @@ Todo componente no react vai ser uma função que retorna HTML/JSX
 O react inteiro se basea em componentes e atributos usando do JSX
 
 ao importar arquivos sempre ./ antes, se precisar voltar uma pasta ../, se nao ele entende que é um modulo e nao uma pasta
+
+yarn start iniciar o projeto
